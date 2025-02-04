@@ -1,0 +1,67 @@
+2025-02-04 16:41:03 [main] INFO  Tests.BaseTest - Test Starting
+2025-02-04 16:41:03 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-04 16:41:03 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-04 16:42:14 [main] INFO  Tests.BaseTest - Test Starting
+2025-02-04 16:42:15 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-04 16:42:15 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-04 16:42:27 [main] INFO  Tests.BaseTest - Test Finished Closing Browser
+2025-02-04 16:48:19 [main] INFO  Tests.BaseTest - Test Starting
+2025-02-04 16:48:19 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-04 16:48:19 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-04 16:48:21 [main] INFO  Tests.BaseTest - Main Page Reachable Searching Product
+2025-02-04 16:48:25 [main] INFO  Tests.BaseTest - Clicked to Product
+2025-02-04 16:48:26 [main] INFO  Tests.BaseTest - Selected Desired Number
+2025-02-04 16:48:26 [main] INFO  Tests.BaseTest - Clicked to Add to cart button
+2025-02-04 16:48:27 [main] INFO  Tests.BaseTest - Notification Captured
+2025-02-04 16:48:30 [main] INFO  Tests.BaseTest - We are at the cart we will check the product name and amount
+2025-02-04 16:48:30 [main] INFO  Tests.BaseTest - Names are the same
+2025-02-04 16:48:30 [main] INFO  Tests.BaseTest - Amounts are the same
+2025-02-04 16:48:31 [main] INFO  Tests.BaseTest - Test Successful
+2025-02-04 16:48:31 [main] INFO  Tests.BaseTest - Test Finished Closing Browser
+2025-02-04 17:02:53 INFO  Tests.BaseTest - Test Starting
+2025-02-04 17:02:53 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-04 17:02:53 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-04 17:02:55 INFO  Tests.BaseTest - Main Page Reachable Searching Product
+2025-02-04 17:03:17 INFO  Tests.BaseTest - Test Finished Closing Browser
+2025-02-04 17:03:32 INFO  Tests.BaseTest - Test Starting
+2025-02-04 17:03:32 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-04 17:03:32 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-04 17:04:32 INFO  Tests.BaseTest - Test Starting
+2025-02-04 17:04:32 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-04 17:04:32 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-04 17:04:34 INFO  Tests.BaseTest - Main Page Reachable Searching Product
+2025-02-04 17:04:37 INFO  Tests.BaseTest - Clicked to Product
+2025-02-04 17:04:38 INFO  Tests.BaseTest - Selected Amount of Product
+2025-02-04 17:04:38 INFO  Tests.BaseTest - Clicked to Add to cart button
+2025-02-04 17:04:39 INFO  Tests.BaseTest - Notification Captured
+2025-02-04 17:04:42 INFO  Tests.BaseTest - We are at the cart we will check the product name and amount
+2025-02-04 17:04:42 INFO  Tests.BaseTest - Names are the same
+2025-02-04 17:04:42 INFO  Tests.BaseTest - Amounts are the same
+2025-02-04 17:04:42 INFO  Tests.BaseTest - Test Successful
+2025-02-04 17:04:42 INFO  Tests.BaseTest - Test Finished Closing Browser
+2025-02-04 17:06:21 INFO  Tests.BaseTest - Test Starting
+2025-02-04 17:06:21 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-04 17:06:21 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-04 17:06:23 INFO  Tests.BaseTest - Main Page Reachable Searching Product
+2025-02-04 17:06:26 INFO  Tests.BaseTest - Clicked to Product
+2025-02-04 17:06:27 INFO  Tests.BaseTest - Selected Amount of Product
+2025-02-04 17:06:27 INFO  Tests.BaseTest - Clicked to Add to cart button
+2025-02-04 17:06:28 INFO  Tests.BaseTest - Notification Captured
+2025-02-04 17:06:31 INFO  Tests.BaseTest - We are at the cart we will check the product name and amount
+2025-02-04 17:06:31 INFO  Tests.BaseTest - Names are the same
+2025-02-04 17:06:31 INFO  Tests.BaseTest - Amounts are the same
+2025-02-04 17:06:31 INFO  Tests.BaseTest - Test Successful
+2025-02-04 17:06:31 INFO  Tests.BaseTest - Test Finished Closing Browser
+2025-02-04 17:07:32 INFO  Tests.BaseTest - Test Starting
+2025-02-04 17:07:32 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-04 17:07:32 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-04 17:07:34 INFO  Tests.BaseTest - Main Page Reachable Searching Product
+2025-02-04 17:07:38 INFO  Tests.BaseTest - Clicked to Product
+2025-02-04 17:07:39 INFO  Tests.BaseTest - Selected Amount of Product
+2025-02-04 17:07:39 INFO  Tests.BaseTest - Clicked to Add to cart button
+2025-02-04 17:07:40 INFO  Tests.BaseTest - Notification Captured
+2025-02-04 17:07:42 INFO  Tests.BaseTest - Controlling Product Name And Amount
+2025-02-04 17:07:42 INFO  Tests.BaseTest - Names are the same
+2025-02-04 17:07:42 INFO  Tests.BaseTest - Amounts are the same
+2025-02-04 17:07:43 INFO  Tests.BaseTest - Test Successful
+2025-02-04 17:07:43 INFO  Tests.BaseTest - Test Finished Closing Browser
