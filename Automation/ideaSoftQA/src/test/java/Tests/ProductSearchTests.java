@@ -44,8 +44,8 @@ public class ProductSearchTests extends BaseTest {
         productPage.clickAddToCartButton();
         logger.info("Clicked to Add to cart button");
         assertTrue(elementHelper.checkVisible(productPage.productAddedNotification));
-        assertEquals(productPage.getValidationOfNotification(),expectedNotification);
-        logger.info("Notification Captured");
+        assertEquals(productPage.getTextOfNotification(),expectedNotification);
+        logger.info("Notification Captured and Text is Correct");
         Thread.sleep(2500);
         productPage.navigateToCart();
         logger.info("Controlling Product Name And Amount");

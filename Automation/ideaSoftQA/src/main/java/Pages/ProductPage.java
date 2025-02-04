@@ -39,7 +39,7 @@ public class ProductPage {
         elementHelper.Click(addToCartButton);
     }
 
-    public String getValidationOfNotification() {
+    public String getTextOfNotification() {
         //Validates the "product added" notification's text
         return elementHelper.findElement(productAddedNotification).getText().trim();
 
