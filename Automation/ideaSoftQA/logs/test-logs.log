@@ -78,3 +78,40 @@
 2025-02-04 17:27:55 INFO  Tests.BaseTest - Amounts are the same
 2025-02-04 17:27:55 INFO  Tests.BaseTest - Test Successful
 2025-02-04 17:27:55 INFO  Tests.BaseTest - Test Finished Closing Browser
+2025-02-04 17:35:05 INFO  Tests.BaseTest - Test Starting
+2025-02-04 17:35:05 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-04 17:35:05 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-04 17:35:07 INFO  Tests.BaseTest - Main Page Reachable Searching Product
+2025-02-04 17:35:11 INFO  Tests.BaseTest - Clicked to Product
+2025-02-04 17:35:12 INFO  Tests.BaseTest - Selected Amount of Product
+2025-02-04 17:35:12 INFO  Tests.BaseTest - Clicked to Add to cart button
+2025-02-04 17:35:13 INFO  Tests.BaseTest - Notification Captured and Text is Correct
+2025-02-04 17:35:16 INFO  Tests.BaseTest - Controlling Product Name And Amount
+2025-02-04 17:35:16 INFO  Tests.BaseTest - Names are the same
+2025-02-04 17:35:16 INFO  Tests.BaseTest - Amounts are the same
+2025-02-04 17:35:16 INFO  Tests.BaseTest - Test Successful
+2025-02-04 17:35:16 INFO  Tests.BaseTest - Test Finished Closing Browser
+2025-02-04 17:36:00 INFO  Tests.BaseTest - Test Starting
+2025-02-04 17:36:00 INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-04 17:36:00 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-04 17:36:02 INFO  Tests.BaseTest - Main Page Reachable Searching Product
+2025-02-04 17:36:06 INFO  Tests.BaseTest - Clicked to Product
+2025-02-04 17:36:07 INFO  Tests.BaseTest - Selected Amount of Product
+2025-02-04 17:36:07 INFO  Tests.BaseTest - Clicked to Add to cart button
+2025-02-04 17:36:08 INFO  Tests.BaseTest - Notification Captured and Text is Correct
+2025-02-04 17:36:11 INFO  Tests.BaseTest - Controlling Product Name And Amount
+2025-02-04 17:36:11 INFO  Tests.BaseTest - Names are the same
+2025-02-04 17:36:11 INFO  Tests.BaseTest - Amounts are the same
+2025-02-04 17:36:11 INFO  Tests.BaseTest - Test Successful
+2025-02-04 17:36:11 INFO  Tests.BaseTest - Test Finished Closing Browser
+2025-02-04 17:36:57 INFO  Tests.BaseTest - Test Starting
+2025-02-04 17:37:00 INFO  Tests.BaseTest - Main Page Reachable Searching Product
+2025-02-04 17:37:04 INFO  Tests.BaseTest - Clicked to Product
+2025-02-04 17:37:06 INFO  Tests.BaseTest - Selected Amount of Product
+2025-02-04 17:37:06 INFO  Tests.BaseTest - Clicked to Add to cart button
+2025-02-04 17:37:06 INFO  Tests.BaseTest - Notification Captured and Text is Correct
+2025-02-04 17:37:09 INFO  Tests.BaseTest - Controlling Product Name And Amount
+2025-02-04 17:37:09 INFO  Tests.BaseTest - Names are the same
+2025-02-04 17:37:09 INFO  Tests.BaseTest - Amounts are the same
+2025-02-04 17:37:10 INFO  Tests.BaseTest - Test Successful
+2025-02-04 17:37:10 INFO  Tests.BaseTest - Test Finished Closing Browser
